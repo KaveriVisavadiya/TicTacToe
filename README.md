@@ -11,4 +11,4 @@ ai_selector.h contains an interface that allows a human player to play against a
 
 To compile the header files with the main file, you can type on the command line as follows: "g++ main.cpp board.cpp ai_selector.cpp ai.cpp -o main" to get a main.exe application that you can then run.
 
-Reference: [Robert Heaton's excellent website](https://robertheaton.com/2018/10/09/programming-projects-for-advanced-beginners-3-a/)
+[Reference](https://robertheaton.com/2018/10/09/programming-projects-for-advanced-beginners-3-a/)
