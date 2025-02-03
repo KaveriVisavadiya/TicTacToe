@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ae3b128f-fea3-435a-9467-3476cfd72947)# Implementation of Tic-Tac-Toe in C++
+# Implementation of Tic-Tac-Toe in C++
 
 There are 3 header files: board.h, ai.h and ai.selector.h. 
 
@@ -11,7 +11,6 @@ ai_selector.h contains an interface that allows a human player to play against a
 
 To compile the header files with the main file, you can type on the command line as follows: "g++ main.cpp board.cpp ai_selector.cpp ai.cpp -o main" to get a main.exe application that you can then run.
 
-(![Uploading image.png…])
-
+![image](https://github.com/user-attachments/assets/ae3b128f-fea3-435a-9467-3476cfd72947)
 
 [Reference](https://robertheaton.com/2018/10/09/programming-projects-for-advanced-beginners-3-a/)
