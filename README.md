@@ -1,4 +1,4 @@
-# Implementation of Tic-Tac-Toe in C++
+![image](https://github.com/user-attachments/assets/ae3b128f-fea3-435a-9467-3476cfd72947)# Implementation of Tic-Tac-Toe in C++
 
 There are 3 header files: board.h, ai.h and ai.selector.h. 
 
@@ -10,5 +10,8 @@ random_ai returns a random valid move. find_winning_move_ai returns a terminal w
 ai_selector.h contains an interface that allows a human player to play against another human, against any of the above 4 AIs, or face off two AIs against each other to compare their performance. Undoubtedly the order of strength in gameplay is as follows: random_ai < find_winning_move_ai < find_winning_and_blocks_losing_moves_ai < minimax_ai.
 
 To compile the header files with the main file, you can type on the command line as follows: "g++ main.cpp board.cpp ai_selector.cpp ai.cpp -o main" to get a main.exe application that you can then run.
+
+(![Uploading image.png…])
+
 
 [Reference](https://robertheaton.com/2018/10/09/programming-projects-for-advanced-beginners-3-a/)
